@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1112.aspx" />
     <Content Include="eye-slash-solid.svg" />
     <Content Include="eye-solid.svg" />
     <Content Include="Global.asax" />
@@ -77,6 +78,13 @@
     <Content Include="youtube-brands.svg" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1112.aspx.cs">
+      <DependentUpon>1112.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="1112.aspx.designer.cs">
+      <DependentUpon>1112.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
