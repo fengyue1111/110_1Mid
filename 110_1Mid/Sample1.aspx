@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
 </head>
-<body>
+<body style="font-size: x-large">
     <form id="form1" runat="server">
         <div>
             <h1>會員註冊</h1><br / >
